@@ -92,13 +92,13 @@
   },
   "peerDependenciesMeta": {
     "@react-three/fiber": {
-      "optional": true
+      "optional": false
     },
     "react": {
-      "optional": true
+      "optional": false
     },
     "react-dom": {
-      "optional": true
+      "optional": false
     }
   }
 }
