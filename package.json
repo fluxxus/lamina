@@ -40,7 +40,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pmndrs/lamina.git"
+    "url": "git+https://github.com/fluxxus/lamina.git"
   },
   "author": "Faraz Shaikh <farazzshaikh@gmail.com>",
   "license": "MIT",
